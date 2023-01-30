@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.animal&apos; to &apos;org.animal.parent&apos;&#x0A;- Original project: &apos;Inheritance&apos;&#x0A;- Original element: &apos;Inheritance/src/org.animal&apos;&#x0A;- Renamed element: &apos;Inheritance/src/org.animal.parent&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.animal&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.animal" name="org.animal.parent" qualified="false" references="true" stamp="1665319398452" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.codeship.parent.Vehicle"/>
+    <fullyQualifiedTypeName name="org.animal.parent.Animal"/>
+    <fullyQualifiedTypeName name="org.animal.child.Reptile"/>
+    <fullyQualifiedTypeName name="org.animal.child.Fish"/>
+    <fullyQualifiedTypeName name="org.animal.child.Birds"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>
